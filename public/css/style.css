@@ -9826,7 +9826,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .portfolio-item:hover .portfolio-btn {
-  opacity: 1;
+  opacity: 0.5;
 }
 
 .team .team-social {
