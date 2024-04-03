@@ -3,7 +3,7 @@
 
 - **Node.js**: A JavaScript runtime for server-side development.
 - **Express**: A web application framework for Node.js to build robust and scalable APIs.
-- **HTML, CSS, EJS**: Frontend technologies for building the user interface.
+- **HTML, CSS, EJS, Bootstrap, JS**: Frontend technologies for building the website.
 
 
 ## Getting Started
