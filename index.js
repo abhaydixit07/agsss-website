@@ -36,22 +36,6 @@ app.get("/gallery", (req, res) => {
   res.render("gallery.ejs");
 });
 
-app.get("/single", (req, res) => {
-  res.render("single.ejs");
-});
-
-app.get("/team", (req, res) => {
-  res.render("team.ejs");
-});
-
-app.get("/blog", (req, res) => {
-  res.render("blog.ejs");
-});
-
-app.get("/class", (req, res) => {
-  res.render("class.ejs");
-});
-
 
 
 
